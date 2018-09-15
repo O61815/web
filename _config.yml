@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: titel
+description: ex
+github:
+    is_project_page:false
