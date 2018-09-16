@@ -17,7 +17,7 @@
 </div>
 
 # yorigesasda
-<div align="center"   style="position: relative;">
+<div align="center"   style="position: relative">
 <img src="114030.jpg" width="80%">
-  <p style="position: absolute">test</p>
+<p style="position: absolute">test</p>
 </div>
