@@ -16,21 +16,9 @@
 <img src="ramen.jpg" width="20%">  
 </div>
 
-# yorigesasda
-<div align="center" style="position:relative">
-<img src="114030.jpg" width="80%">
-<div style="position:absolute">
-  <p>test</p>
-</div>
-</div>
-
-1
-2
-3
-4
-5
+# yoricatowa
 <div style="position: relative;">
 <img src="yoricaHPgazou2.png" alt="topimg"> 
-<div style="position:absolute; align="center" >
+<div style="position:absolute; align="center">
 YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です
 </div></div>
