@@ -31,15 +31,15 @@
 <div style="position: relative;">
 <img src="yoricaHPgazou2.png" alt="topimg"> 
 <div style="position:absolute; top:150px; left:230px; width: 430px;">
-<font size="5" face="ＭＳ Ｐ明朝">YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です3</font>
+<font size="5" face="ＭＳ Ｐ明朝">YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です</font>
 </div></div>
 <div style="position: relative;">
 <img src="yoricaHPgazou2.png" alt="topimg"> 
 <div style="position:absolute; top:150px; left:330px; width: 430px;">
-<font size="6" face="ＭＳ Ｐ明朝">YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です3</font>
+<font size="6" face="ＭＳ Ｐ明朝">YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です</font>
 </div></div>
 <div style="position: relative;">
 <img src="yoricaHPgazou2.png" alt="topimg"> 
 <div style="position:absolute; top:150px; left:330px; width: 430px;">
-<font size="6" face="ＭＳ Ｐ明朝">YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です3</font>
+<font size="6" face="ＭＳ Ｐ明朝">YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です</font>
 </div></div>
