@@ -16,10 +16,19 @@
 <img src="ramen.jpg" width="20%">  
 </div>
 
-# yoricatowa
-test
+
+  
+
+test  
 <div style="position: relative;">
-<img src="yoricaHPgazou2.png" alt="topimg"> 
+<img src="yoricaHPgazou2.png" alt="topimg">
 <div style="position:absolute; align="center">
 <font size="7" face="ＭＳ Ｐ明朝">YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です3</font>
+</div></div>
+                            
+                            
+                            <div style="position: relative;">
+<img src="yoricaHPgazou2.png" alt="topimg"> 
+<div style="position:absolute; top:50px; left:30px; width: 430px;">
+ここに文章を書く
 </div></div>
