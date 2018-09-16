@@ -17,9 +17,20 @@
 </div>
 
 # yorigesasda
-<div align="center"   style="position: relative">
+<div align="center" style="position:relative">
 <img src="114030.jpg" width="80%">
-<div style="position: absolute">
+<div style="position:absolute">
   <p>test</p>
 </div>
 </div>
+
+1
+2
+3
+4
+5
+<div style="position: relative;">
+<img src="114030.jpg" alt="topimg"> 
+<div style="position:absolute; top:50px; left:30px; width: 430px;">
+ここに文章を書く
+</div></div>
