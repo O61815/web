@@ -17,8 +17,10 @@
 </div>
 
 # yoricatowa
+
+
 <div style="position: relative;">
 <img src="yoricaHPgazou2.png" alt="topimg"> 
 <div style="position:absolute; align="center">
-YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です
+YORICAとは、○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です2
 </div></div>
